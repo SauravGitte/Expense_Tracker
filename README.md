@@ -45,7 +45,7 @@ The Expense Tracker is a web application designed to help users track their expe
    cd Expense_Tracker
    ```
 3. Set up the database:
-   - Create a MySQL database named `expense_tracker`.
+   - Create a MySQL database named `Exp`.
    - Import the provided SQL scripts to create the necessary tables.
 
 4. Configure the database connection in the `config.php` file:
@@ -54,7 +54,7 @@ The Expense Tracker is a web application designed to help users track their expe
    $servername = "your_server_name";
    $username = "your_username";
    $password = "your_password";
-   $dbname = "expense_tracker";
+   $dbname = "Exp";
 
    // Create connection
    $conn = new mysqli($servername, $username, $password, $dbname);
