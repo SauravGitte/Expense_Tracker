@@ -5,13 +5,13 @@ Let's BEGIN.....
 Welcome to the Expense Tracker project! This is a web-based application that allows users to track their expenses and manage budgets efficiently. 
 
 ## Table of Contents
-- [Introduction]
-- [Features]
-- [Tech Stack]
-- [Installation]
-- [Usage]
-- [Database Schema]
-- [Contributing]
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Database Schema](#database-schema)
+- [Contributing](#contributing)
 
 ## Introduction
 
