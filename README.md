@@ -1,5 +1,6 @@
 # Expense_Tracker
 Expense Tracker was a group project that me and my friends did in our course of DBMS. 
+I contributed in the front-end part, designing the wireframes and E-R Diagram.
 
 Let's BEGIN.....
 Welcome to the Expense Tracker project! This is a web-based application that allows users to track their expenses and manage budgets efficiently. 
