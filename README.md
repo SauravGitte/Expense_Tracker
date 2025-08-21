@@ -25,6 +25,20 @@ The Expense Tracker is a web application designed to help users track their expe
 - Detailed list of expenses with options to add and delete
 - Budget management with the ability to set and adjust budget amounts
 
+## Screenshots
+
+Here are some screenshots of the Expense Tracker application:
+
+### Dashboard
+![Dashboard](EXP\Screenshots\Dashboard.png)
+
+### Add Expense
+![Add Expense](EXP\Screenshots\NewExpense.png)
+
+### Budget Management
+![Budget Management](EXP\Screenshots\Budget.png)
+
+
 ## Tech Stack
 
 ### Front End
